@@ -1,0 +1,13 @@
+.env
+.DS_Store
+
+.idea/
+
+*.pyc
+*.pkl
+
+dist/
+build/
+onchains.egg-info/
+
+__pycache__/
